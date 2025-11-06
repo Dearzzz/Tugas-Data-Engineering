@@ -1,5 +1,4 @@
-﻿;;;;
-Invoice_No;Category;Product;Quantity;Price
+﻿Invoice_No;Category;Product;Quantity;Price
 INV001;Electronics;hone;3;500
 INV002;Clothing;T-Shirt;2;20
 INV003;Electronics;Laptop;1;1000
